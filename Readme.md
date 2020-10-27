@@ -3,6 +3,10 @@
 This page is created to demonstrate the intermediate results of an ongoing project in path smoothing and optimization.
 Due to potential novelty in the code, it has not been made available yet, but will be uploaded in the future.
 
+Corridor enviroment |  Maze environment  | Scattered environment
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" />  | <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif" height="400" />  | <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" />
+
 ## What the algorithm does: 
 The algorithm generates smooth paths with C1 continuity for autonomous agents with non-holonomic constraints.
 
@@ -22,6 +26,10 @@ The final path is much smoother and is close to the asymptotically optimal paths
 The added bonus is that this algorithm is much faster than RRT*, and can be potentially deployed in an anytime fashion. 
 
 The below illustrations show how the post-processing function optimizes the initial loopy and sub-par path and generates a much smoother and shorter path.
+
+Corridor enviroment |  Maze environment  | Scattered environment
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" />  | <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif" height="400" />  | <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" />
 
 ![Default](https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/def.gif)
 
