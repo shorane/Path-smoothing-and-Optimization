@@ -5,7 +5,7 @@ Due to potential novelty in the code, it has not been made available yet, but wi
 
 Corridor enviroment |  Maze environment  | Scattered environment
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Corridor.png" height="400" />  | <img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Maze.png" height="400" />  | <img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Scatter.png" height="400" />
+<img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Corridor.png" height="300" />  | <img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Maze.png" height="300" />  | <img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Scatter.png" height="300" />
 
 ## What the algorithm does: 
 The algorithm generates smooth collision-free paths with C1 continuity for autonomous agents with non-holonomic constraints.
@@ -37,8 +37,9 @@ Corridor enviroment |  Maze environment  | Scattered environment
 The below results show the comparison of path charateristics of the base path against 2 different levels of optimization applied by the post processing algorithm. 
 
 The results have been averaged after running 100 iterations of each version in three different test environments.
-
+<div style="text-align:center">
 <img src = "https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Optimization-of-RRT-algorithm%20(2).jpg" height="400"/>
+</div>
 
 ## Sampling-based Graph Search Algorithms:
 
