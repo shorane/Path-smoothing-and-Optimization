@@ -37,7 +37,7 @@ The below results show the comparison of path charateristics of the base path ag
 
 The results have been averaged after running 100 iterations of each version in three different test environments.
 
-<img src = "https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Optimization-of-RRT-algorithm%20(2).jpg" width="400" height="400"/>
+<img src = "https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Optimization-of-RRT-algorithm%20(2).jpg" height="400"/>
 
 ## Sampling-based Graph Search Algorithms:
 
