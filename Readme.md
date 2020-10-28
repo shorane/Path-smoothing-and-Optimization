@@ -1,4 +1,4 @@
-# Path smoothing and Optimization
+# Path smoothing and Trajectory Optimization
 
 This page is created to demonstrate the intermediate results of an ongoing project in path smoothing and optimization.
 Due to potential novelty in the code, it has not been made available yet, but will be uploaded in the future.
