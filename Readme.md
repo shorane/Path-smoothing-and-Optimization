@@ -30,9 +30,7 @@ The below illustrations show how the post-processing function optimizes the init
 
 Corridor enviroment |  Maze environment  | Scattered environment
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/def.gif" height="400" />  | <img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/maze-cropped.gif" height="400" />  | <img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/scatter.gif" height="400" />
-
-![Default](https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/def.gif)
+<img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/def.gif" height="300" />  | <img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/maze-cropped.gif" height="300" />  | <img src="https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/scatter.gif" height="300" />
 
 The below results show the comparison of path charateristics of the base path against 2 different levels of optimization applied by the post processing algorithm. 
 
