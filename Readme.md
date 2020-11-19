@@ -45,7 +45,7 @@ The developed RRT-Dubins-Post_Processing algorithm has been benchmarked against 
 - Number of curvature variation peaks
 - Path length
 
-The Benchmarking report can be found here: 
+The Benchmarking report can be found here: [Link to benchmarking report](https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/benchmarking/Benchmarking_Report.pdf)
 
 
 To view more relevant projects: 
