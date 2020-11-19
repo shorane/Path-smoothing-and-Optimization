@@ -35,7 +35,7 @@ The below results show the comparison of path charateristics of the base path ag
 The developed RRT-Dubins-Post_Processing algorithm has been benchmarked against other common methods like the following:
 - RRT with Bezier curves
 - SST (Stable Sparse RRT)
-- RRT with POSQ controller as an extend function ![Source](https://github.com/palmieri/posq)
+- RRT with POSQ controller as an extend function [Source](https://github.com/palmieri/posq)
 
 To view more relevant projects: 
 - visit my portfolio website [here](https://horaneshubham.wixsite.com/autonomous)
