@@ -31,7 +31,7 @@ The below results show the comparison of path charateristics of the base path ag
 
 <img src = "https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Optimization-of-RRT-algorithm%20(2).jpg" height="400"/>
 
-## Benchmarking:
+## Benchmarking: [(benchmarking report)](https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/benchmarking/Benchmarking_Report.pdf)
 The developed RRT-Dubins-Post_Processing algorithm has been benchmarked against other common methods like the following:
 - RRT with Bezier curves [(Source)](https://github.com/arpitkalla/bezier-rrt)
 - SST (Stable Sparse RRT) [(Source)](https://github.com/krishauser/pyOptimalMotionPlanning)
@@ -46,6 +46,9 @@ The developed RRT-Dubins-Post_Processing algorithm has been benchmarked against 
 - Path length
 
 The Benchmarking report can be found here: [Link to benchmarking report](https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/benchmarking/Benchmarking_Report.pdf)
+
+
+
 
 
 To view more relevant projects: 
